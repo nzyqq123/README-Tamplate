@@ -32,23 +32,17 @@
 </details>
 
 
-
-
 ## About
 
 This repo is a tamplate of readme
-
-
 
 ### Built With
 
 Markdown grammar
 
-
-
 ## Getting Started
 
-This repo can use
+recommend edit on windows13 ^_^
 
 ### Prerequisites
 
